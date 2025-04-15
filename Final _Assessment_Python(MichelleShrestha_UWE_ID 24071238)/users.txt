@@ -1,0 +1,7 @@
+1234|hehe|student
+1111|pran|admin
+02|mulla|student
+03|haha|student
+04|asim|student
+05|michelle|student
+2|Pp|student
